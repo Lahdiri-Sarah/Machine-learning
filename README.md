@@ -1,4 +1,4 @@
 # Machine learning
  Image recognition and data classification
 
- This project applies advanced techniques (SVM, kNN, neural networks, HOG) to recognize handwritten digits and extract information from documents such as checks. It combines preprocessing, scaling, classification, and result visualization in an automated and efficient manner.
+ This project leverages advanced techniques such as Support Vector Machines (SVM), k-Nearest Neighbors (kNN), neural networks, and Histogram of Oriented Gradients (HOG) to perform handwritten digit recognition and extract information from documents like checks. It integrates preprocessing, scaling, classification, and result visualization into a fully automated and efficient workflow.
